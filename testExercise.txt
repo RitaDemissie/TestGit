@@ -1,0 +1,9 @@
+This is to test . if i can add a file...
+
+Exercise
+View all the videos from the Lynda.com Github lessons.
+This will involve creating a Github account.
+Download and install Git on your machine if it is not already installed.
+Follow through the tutorials to create a repository and a branch.
+Add files to your local repository and make commits.
+Push the files that you created during the tutorial to your Github account.
